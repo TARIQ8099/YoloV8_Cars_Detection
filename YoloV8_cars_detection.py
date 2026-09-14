@@ -146,5 +146,3 @@ for cls, count in sorted(class_counter.items()):
 
 print("============================")
 
-# Made with ❤️ by Nawaf Rayhan
-# please give a ⭐ to the repository if you found it useful!
