@@ -1,4 +1,4 @@
-# YOLOv8 Car Detector
+YOLOv8 Car Detector
 
 A YOLOv8 video detection script. It draws bounding boxes on a video, logs every detection to a CSV file, and saves the annotated output as a new video.
 
@@ -106,6 +106,4 @@ yolov8-car-detector/
 - [ ] Batch processing for multiple videos
 - [ ] Configurable overlay styling
 
-## License
 
-For educational and personal use.
